@@ -15,6 +15,7 @@ package {{ NAME }}_pkg;
    import uvm_pkg::*;
 
    // `uvm_analysis_imp_decl()
+   `include "{{ cookiecutter.package }}_types.sv"   
    `include "{{ cookiecutter.package }}_cfg.sv"
    `include "{{ cookiecutter.package }}_sb.sv"
    `include "{{ cookiecutter.package }}_env.sv"
