@@ -5,5 +5,5 @@ Just install [cookiecutter](https://github.com/audreyr/cookiecutter), nothing to
 ## Usage
 `cookiecutter https://github.com/draconian-uvm/cc-env`
 You'll be prompted for two inputs:
-* `package` The name of the package that contains the environment (this will also be created)
+* `package` The name of the package that contains the environment (this will also be created). "_pkg" is automatically added as a suffix.
 * `directory` The path to the directory containing the environment. Used in the flist file.
