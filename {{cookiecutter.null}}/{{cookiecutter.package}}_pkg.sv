@@ -10,7 +10,7 @@
 
  `include "uvm_macros.svh"
 
-                      
+
 package {{ NAME }}_pkg;
    import uvm_pkg::*;
 
@@ -21,4 +21,4 @@ package {{ NAME }}_pkg;
 
 endpackage :  {{ NAME }}_pkg
 
-`endif // guard  
+`endif // guard
