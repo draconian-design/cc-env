@@ -1,3 +1,4 @@
 {
-    "package" : "mem"
+    "package" : "mem",
+    "directory" : "project/verif/vkits"
 }

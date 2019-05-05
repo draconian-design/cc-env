@@ -1,0 +1,2 @@
++incdir+{{ cookiecutter.directory }}/{{ cookiecutter.package }}
+{{ cookiecutter.directory }}/{{cookiecutter.package}}/{{cookiecutter.package}}_pkg.sv
